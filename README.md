@@ -99,4 +99,4 @@ DevOps • Cloud • Automation
 
 # ⚡ Philosophy
 
-> “> “Still learning. Still building.” 🚀.”
+>  “Still learning. Still building.” 🚀.
