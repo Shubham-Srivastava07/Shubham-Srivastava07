@@ -99,4 +99,4 @@ DevOps • Cloud • Automation
 
 # ⚡ Philosophy
 
-> “Consistency, troubleshooting and hands-on practice build real engineering skills.”
+> “> “Still learning. Still building.” 🚀.”
