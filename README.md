@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Srivastava</h1>
 
 <h3 align="center">
-Aspiring DevOps & Cloud Engineer from India 🇮🇳
+Aspiring DevOps & Cloud Engineer 
 </h3>
 
 <p align="center">
@@ -66,15 +66,6 @@ Aspiring DevOps & Cloud Engineer from India 🇮🇳
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Srivastava07&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Srivastava07&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
