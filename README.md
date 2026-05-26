@@ -15,7 +15,7 @@ DevOps • Cloud • Automation
 - 🚀 Working with DevOps tools and cloud-native technologies
 - ☁️ Hands-on with AWS services and infrastructure setup
 - 🐳 Working with Docker, Kubernetes & containerized environments
-- 🔄 Building CI/CD workflows using Jenkins & GitHub Actions
+- 🔄 Building CI/CD workflows using Jenkins 
 - 📊 Exploring monitoring & observability with Prometheus and Grafana
 - ⚙️ Practicing Infrastructure as Code using Terraform
 - 🧠 Exploring Python and GenAI integrations for automation
